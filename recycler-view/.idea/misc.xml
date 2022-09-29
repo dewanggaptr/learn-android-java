@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Kuliah/SEMESTER 5/Mobile/learn-android-java/recycler-view/app/src/main/res/layout/activity_detail.xml" value="0.17028985507246377" />
         <entry key="..\:/Kuliah/SEMESTER 5/Mobile/learn-android-java/recycler-view/app/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
         <entry key="..\:/Kuliah/SEMESTER 5/Mobile/learn-android-java/recycler-view/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Kuliah/SEMESTER 5/Mobile/learn-android-java/recycler-view/app/src/main/res/layout/football_list.xml" value="0.25" />
         <entry key="..\:/Kuliah/SEMESTER 5/Mobile/learn-android-java/recycler-view/app/src/main/res/layout/fragment_first.xml" value="0.25" />
         <entry key="..\:/Kuliah/SEMESTER 5/Mobile/learn-android-java/recycler-view/app/src/main/res/layout/fragment_second.xml" value="0.25" />
         <entry key="..\:/Kuliah/SEMESTER 5/Mobile/learn-android-java/recycler-view/app/src/main/res/layout/wordlist_item.xml" value="0.1" />

@@ -6,4 +6,120 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+
+    <string name="arema_name">Arema</string>
+    <string name="arema_description">Malang, Jawa Timur</string>
+    <string name="arema_details">
+        \n
+        Arema didirikan pada tanggal 11 Agustus 1987 sebagai Arema Malang.
+        Pada tahun 2009, Arema berganti nama menjadi Arema Indonesia.
+        Tahun 2012, Arema Indonesia diakusisi oleh Grup Bakrie. Saat itu, Bakrie menjual klub mereka, Pelita Jaya dan berubah menjadi Pelita Bandung Raya
+        sehingga membatalkan rencana merger antar kedua tim.
+        Pada tahun 2013, Arema Indonesia berganti nama menjadi Arema Cronus setelah diakuisisi oleh Grup Bakrie.
+        Pada tahun 2017, nama Arema Cronus berubah menjadi Arema FC hingga sekarang.
+        Selama berlaga di Liga 1, Arema bermarkas di Stadion Kanjuruhan, Kabupaten Malang dan Stadion Gajayana, Kota Malang. Arema adalah tim sekota dari Arema Indonesia,
+        Persema Malang, Persekam Metro, NZR Sumbersari, dan Malang United.
+    </string>
+
+    <string name="persebaya_name">Persebaya</string>
+    <string name="persebaya_description">Surabaya, Jawa Timur</string>
+    <string name="persebaya_details">
+        \n
+        Persatuan Sepak Bola Surabaya atau biasa disebut Persebaya Surabaya (disingkat Persebaya) adalah sebuah klub sepak bola profesional Indonesia
+        yang berbasis di kota Surabaya, Jawa Timur. Saat ini Persebaya berkompetisi Liga 1 Indonesia.
+        Persebaya berdiri pada 18 Juni 1927 sebagai Soerabajasche Indonesische Voetbal Bond (SIVB).
+        Persebaya pernah mengubah namanya menjadi Persebaya 1927 akibat dari konflik Dualisme Persebaya Surabaya yang terjadi pada tahun 2010 hingga 2017 yang menyebabkan keanggotaan Persebaya di PSSI dibekukan.
+        Setelah persoalan dualisme Persebaya selesai, status keanggotaan Persebaya dipulihkan kembali ketika kongres tahunan PSSI pada tanggal 8 Januari 2017 di Bandung.
+    </string>
+
+    <string name="persija_name">Persija</string>
+    <string name="persija_description">Jakarta, DKI Jakarta</string>
+    <string name="persija_details">
+        \n
+        Persija singkatan dari Persatuan Sepak Bola Indonesia Jakarta (dahulu dikenal juga dengan nama Persija Pusat) adalah klub sepak bola Indonesia yang berbasis di Jakarta.
+        Persija saat ini berlaga di Liga 1. Persija merupakan salah satu klub sepakbola paling sukses di sejarah sepakbola Indonesia dengan torehan 2 kali
+        juara liga domestik dan 9 kali juara turnamen perserikatan hingga sejauh ini.
+        Persija didirikan pada 28 November 1928, tepat sebulan setelah Sumpah Pemuda, dengan cikal bakal bernama Voetbalbond Indonesische Jacatra (VIJ).
+        VIJ merupakan salah satu klub yang ikut mendirikan Persatuan Sepak Bola Seluruh Indonesia (PSSI) dengan keikutsertaan wakil VIJ, Mr. Soekardi dalam pembentukan PSSI di Societeit Hadiprojo Yogyakarta,
+        Sabtu 19 April 1930.
+    </string>
+
+    <string name="persib_name">Persib</string>
+    <string name="persib_description">Bandung, Jawa Barat</string>
+    <string name="persib_details">
+        \n
+        Persib (atau singkatan dari Persatuan Sepak Bola Indonesia Bandung) adalah klub sepak bola Indonesia yang berdiri pada 14 Maret 1933, berbasis di Bandung, Jawa Barat.
+        Persib saat ini bermain di Liga 1 Indonesia. Julukan mereka adalah Maung Bandung dan Pangeran Biru.
+        Sejak jaman Perserikatan permainan Persib Bandung mempunyai ciri khas tersendiri yaitu dalam bahasa Sunda;
+        tikteuk yaitu permainan kaki ke kaki, mengandalkan kreativitas dan kecepatan penyerangan.
+        Sebelum lahirnya Persib Bandung, di Kota Bandung telah berdiri klub sepak bola Bandoeng Inlandsche Voetbal Bond (BIVB) pada sekitar tahun 1923. BIVB ini merupakan salah satu organisasi
+        perjuangan kaum nasionalis pada masa itu.
+    </string>
+
+    <string name="psis_name">PSIS</string>
+    <string name="psis_description">Semarang, Jawa Tengah</string>
+    <string name="psis_details">
+        \n
+        Persatuan Sepak Bola Indonesia Semarang atau biasa disingkat PSIS Semarang adalah klub sepak bola profesional yang berbasis di Kota Semarang, Jawa Tengah, Indonesia
+        dengan bermarkas di Stadion Jatidiri, Semarang. Julukan klub ini adalah Laskar Mahesa Jenar.
+        PSIS Semarang adalah klub pertama di Liga Indonesia yang pernah menjadi juara Divisi Utama (1999) dan kemudian terdegradasi ke Divisi Satu pada musim berikutnya (2000).
+        PSIS kemudian berhasil menjuarai kompetisi Divisi Satu nasional (2001), dan berhak berlaga kembali di kompetisi Divisi Utama Liga Indonesia.
+        Setelah PSSI lahir pada 19 April 1930, Voetbalbond Indonesia Semarang berganti nama penjadi Persatuan Sepak bola Indonesia Semarang (PSIS)
+        yang beranggotakan klub sepak bola Romeo, PSKM, REA, MAS, PKVI, Naga, RIM, RDS dan SSS sendiri.
+        Adapun nama klub SSS kemudian berganti menjadi berbahasa Indonesia, Sport Supaya Sehat, sampai sekarang
+
+    </string>
+
+    <string name="pss_name">PSS</string>
+    <string name="pss_description">Sleman, Jawa Tengah</string>
+    <string name="pss_details">
+        \n
+        Perserikatan Sepakbola Sleman (PSS) merupakan klub sepak bola professional yang bermain di liga indonesia
+        dan berbasis di Kabupaten Sleman, Daerah Istimewa Yogyakarta, Indonesia. PSS didirikan pada tanggal 20 Mei 1976.
+        PSS memliliki julukan Super Elang Jawa (disingkat Super Elja), selain itu PSS juga memiliki julukan Laskar Sembada merujuk pada awal didirikannya
+        sebagai tim perserikatan dari Kabupaten Sleman. PSS berkompetisi di Liga 1 Indonesia.
+        Stadion utama PSS adalah Stadion Maguwoharjo, setelah pindah dari Stadion Tridadi pada tahun 2007.
+        Pertandingan resmi pertama di Stadion Maguwoharjo terselenggara pada Minggu, 18 Februari 2007 dengan kemenangan PSS 2-1 atas Pelita Jaya Purwakarta.
+        PSS sedang mengembangkan pusat latihan tim di Lapangan Macanan.
+        PSS didukung oleh kelompok suporter yang bernama Slemania dan Brigata Curva Sud (BCS).
+
+    </string>
+
+    <string name="persita_name">Persita</string>
+    <string name="persita_description">Tangerang, Banten</string>
+    <string name="persita_details">
+        \n
+        Persatuan Sepak bola Indonesia Tangerang (disingkat Persita atau Persita Tangerang) adalah sebuah klub sepak bola Indonesia yang bermarkas di Kabupaten Tangerang.
+        Tim berjuluk Pendekar Cisadane yang identik dengan jersey berwarna violet.
+        Persita Tangerang saat ini bermain di liga tertinggi Indonesia, Liga 1.
+        Pada tahun 2002 klub ini berhasil menjadi runner-up nasional.
+        Sebelum dipromosikan ke Liga 1 pada tahun 2020, Persita Tangerang terakhir kali bermain pada tahun 2014 di liga tertinggi Indonesia,
+        yang saat itu bernama Liga Super Indonesia.
+        Pada musim 2003, mereka mengambil bagian dalam Kejuaraan Klub ASEAN dan mencapai perempat final, kalah 2-1 dari pemenang akhirnya Kingfisher East Bengal dari India.
+        Alhasil Persita berhasil mengamankan tempat di peringkat ke-3 pada kejuaraan tersebut.
+
+    </string>
+
+    <string name="psm_name">PSM</string>
+    <string name="psm_description">Makassar, Sulawesi Selatan</string>
+    <string name="psm_details">
+        \n
+        Persatuan Sepak bola Makassar (disingkat PSM Makassar) adalah sebuah tim sepak bola Indonesia yang berbasis di Makassar, Sulawesi Selatan, Indonesia, yang dikenal dengan julukan Pasukan Ramang atau Juku Eja.
+        PSM Makassar saat ini bermain di BRI Liga 1, setelah sebelumnya pernah bermain di Liga Primer Indonesia.
+        PSM Makassar merupakan salah satu tim terkuat di Indonesia dan telah mewakili Indonesia di kompetisi Liga Champions
+        sebanyak tiga kali. PSM Makassar merupakan tim dengan catatan prestasi paling stabil di pentas Liga Indonesia, dengan sekali menjadi juara, sembilan kali runner up, dan hanya sekali gagal masuk putaran final.
+        PSM Makassar adalah klub sepak bola tertua di Indonesia yang berdiri sejak tahun 1915. Pada tahun 2014,
+        PSM Makassar kembali ke Liga Super Indonesia setelah lolos play-off unifikasi liga PSSI.
+
+    </string>
+
+    <string name="persipura_name">Persipura</string>
+    <string name="persipura_description">Jayapura, Papua</string>
+    <string name="persipura_details">
+        \n
+        Persatuan Sepakbola Indonesia Jayapura (atau disingkat Persipura Jayapura) adalah sebuah klub sepak bola Indonesia yang bermarkas di Kota Jayapura, Papua.
+        Persipura merupakan tim terbaik di era Liga Indonesia dengan empat kali meraih gelar juara
+        Sejarah pembentukan Persipura tak diketahui secara pasti. Para petinggi klub belum bisa memastikan bahwa Persipura dibentuk pada tahun 1963, karena terdapat pula bukti yang menunjukkan tahun 1962, 1965, dan bahkan 1950.
+        Di luar itu, mereka juga belum bisa memastikan apa nama terdahulu Persipura.
+    </string>
 </resources>
